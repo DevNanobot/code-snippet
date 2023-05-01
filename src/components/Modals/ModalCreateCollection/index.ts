@@ -1,0 +1,1 @@
+export { ModalCreateCollection } from './ModalCreateCollection'
